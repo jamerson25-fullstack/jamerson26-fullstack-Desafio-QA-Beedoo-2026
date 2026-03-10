@@ -1,0 +1,1 @@
+# jamerson26-fullstack-Desafio-QA-Beedoo-2026
