@@ -23,7 +23,7 @@ O sistema deveria impedir o cadastro e exibir uma mensagem de validação inform
 
 Evidência:
 
-/evidencias/bug01.png
+/evidencias/bug01.jpeg  
 
 ---
 
@@ -49,7 +49,7 @@ O sistema deveria impedir o cadastro e exibir uma mensagem de validação inform
 
 Evidência:
 
-/evidencias/bug01.png
+/evidencias/bug02.png
 
 ---
 
@@ -74,7 +74,7 @@ Sistema deve limitar ou validar o tamanho do texto.
 
 Evidência:
 
-/evidencias/bug01.png
+/evidencias/bug03.png
 
 ---
 
@@ -99,7 +99,7 @@ Sistema deve validar ou impedir caracteres inválidos.
 
 Evidência:
 
-/evidencias/bug01.png
+/evidencias/bug04.png
 
 ---
 
@@ -123,7 +123,7 @@ Sistema deveria impedir duplicidade ou alertar.
 
 Evidência:
 
-/evidencias/bug01.png
+/evidencias/bug05.png
 
 ---
 
@@ -147,6 +147,32 @@ Sistema deve mostrar mensagem como: "Nenhum curso cadastrado".
 
 Evidência:
 
-/evidencias/bug01.png
+/evidencias/bug06.png
+
+---
+
+## BUG 07 - excluir curso
+
+Severidade: alta
+
+Passos para reproduzir:
+
+1 - Acessar a página 
+2- ecolher um curso
+3- excluir um curso
+
+
+
+Resultado atual:
+
+mensagem de excluído, curso permanece disponível
+
+Resultado esperado:
+
+Sistema deve remover o curso
+
+Evidência:
+
+/evidencias/bug06.png
 
 ---
